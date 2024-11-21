@@ -18,7 +18,10 @@ body {
     font-family: 'Steppe-Book', sans-serif;
     color: white;
 }
-
+main{
+    position: relative;
+    overflow: hidden;
+}
 .container {
     max-width: 1200px;
     margin: 0 auto;
